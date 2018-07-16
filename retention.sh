@@ -8,7 +8,7 @@ help() {
 cat << EOF
 	Usage: $0 <HDFS path> <number of days>
 
-	This is a retention polycy script.
+	This is an HDFS retention polycy script.
 
 	The script got exactly two arguments:
 	1. HDFS folder path as first argument
