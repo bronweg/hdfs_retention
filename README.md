@@ -14,5 +14,4 @@ Delete HIVE tables older than 10 days
 `$0 /user/hive/warehouse 30`
 
 Wrote by Ulis Ilya ulis.ilya@gmail.com  
-Reference: https://stackoverflow.com/questions/44235019/delete-files-older-than-10days-on-hdfs
-
+Reference: https://stackoverflow.com/a/44248187
