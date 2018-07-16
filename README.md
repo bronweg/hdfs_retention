@@ -1,5 +1,5 @@
 # hdfs_retention
-**This is an HDFS retention polycy script.**
+**This is an HDFS retention policy script.**
 
 *Usage: `$0 <HDFS path> <number of days>`*
 
